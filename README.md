@@ -1,2 +1,2 @@
-# Building-LLM-Ground-Up
-This repository is created as part of Sebastian's Raschka's workshop- Building LLMs Ground Up. 
+# Building-LLMs-from-Ground-Up
+This repository is created as part of attending the Sebastian Raschka's coding workshop - Building LLMs from Ground Up. 
