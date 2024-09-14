@@ -1,7 +1,15 @@
 # Building-LLMs-from-Ground-Up
-This repository is created as part of Sebastian Raschka's coding workshop - Building LLMs from Ground Up. The source code in this repository builds GPT2 based LLM from scratch, and also involves pretraining and instruction finetuning the LLMs. <br>
+This repository is created as part of Sebastian Raschka's coding workshop - Building LLMs from Ground Up. The source code in this repository builds OpenAI GPT based Large Language Model (LLM) from scratch, and also involves pretraining and instruction finetuning the LLMs. <br>
 The repository also contains code to use existing LLM models like OpenAI GPT, Microsoft Phi, Meta LLama, Mistral etc. using LightingAI wrapper. <br>
 The following are some signficant modules and their functionality: <br>
+<ul>
+  <li>02_data: Dataset Preparation- Tokenizatio and Embeddings</li>
+  <li>03_LLM_Architecture: Building a LLM model using PyTorch</li>
+  <li>04_LLM_Pretraining: Pretraining LLM models</li>
+  <li>05_LLM_Weightloading: Loading pretrained weights for LLM models</li>
+  <li>06_LLM_Finetuning: Instruction Finetuning for LLM models</li>
+</ul>
+
 
 **02_data** contains Dataset preparation code for LLM training. <br>
 The data used for this project is the The Verdict- By Edith Wharton. The folder contains the_verdict.txt text file for the same. <br>
